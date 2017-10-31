@@ -1,0 +1,1 @@
+Online lightweight tool for extracting article or blog post data from web-site.
